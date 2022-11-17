@@ -1,0 +1,122 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
+.main_container{
+	max-width: 1200px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+ 	margin: 0 auto;	
+}
+
+.block1 {
+	margin-bottom: 50px;
+}
+
+.blue{
+	background-color: #0000FF;
+	width: 1200px;
+	height: 50px;
+}
+
+.black{
+	background-color: #000000;
+	width: 1200px;
+	height: 100px;
+}
+
+.block2{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.yellow{
+	background-color: #FFD700;
+	width: 250px;
+	height: 500px;
+}
+
+.grey{
+	background-color: #DCDCDC;
+	width: 830px;
+	height: 250px;
+	position: absolute;
+	margin-left: 300px;	 
+}
+
+.text{
+	margin-top: 290px;
+	margin-left: 50px;	
+}
+
+.square__item{
+	display: flex;
+	flex-wrap: wrap;
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 35px;	
+}
+
+.square1{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	margin-top: 315px;  
+	display: block;
+      	border:solid 4px #0000FF;
+}
+
+.square2{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	margin-top: 315px;
+	margin-left: 170px; 
+	display: block;
+      	border:solid 4px #0000FF;
+}
+
+.square3{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	margin-top: 315px;
+	margin-left: 340px; 
+	display: block;
+      	border:solid 4px #0000FF;
+}
+
+.square4{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	margin-top: 315px;
+	margin-left: 510px; 
+	display: block;
+      	border:solid 4px #0000FF;
+}
+
+.square5{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	margin-top: 315px;
+	margin-left: 680px; 
+	display: block;
+      	border:solid 4px #0000FF;
+}
+
+
+
+@media only screen and (max-width: ) {
+	
+	
+
+}
+
+	
+
